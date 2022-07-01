@@ -23,17 +23,21 @@ sections:
           description: Set clinic schedule in 5 min
           url: /privacy/
   - infobar:
-      title: Launching in Aug 2022
-      subtitle: Raising adult vaccine rates
-      description: "The goal: +20% pneumonia vaccination rates"
-      button: Learn more
-      url: /faq/
-  - infobar:
       title: "Webinars: 18 & 21 July"
       subtitle: Join us on zoom
       description: "Speakers: Li Hongyi and the OGP team"
       button: Register
       url: https://zoom.us?register-for-has-webinar
+  - infobar:
+      button: Learn more
+      url: /faq/
+  - infopic:
+      title: "Launch: Aug 2022"
+      subtitle: Raising adult vaccine rates
+      description: Our mid-term goal is to increase adult pneumonococcal vaccinations
+        rates to +20%.
+      image: /images/istockphoto-1289898945-612x612.jpg
+      alt: Image alt text
   - resources:
       subtitle: Things
       title: Stuff
