@@ -23,8 +23,8 @@ sections:
           description: Set clinic schedule in 5 min
           url: /privacy/
   - resources:
-      title: 18 July | 21 July
-      subtitle: Learn more at our webinars
+      title: Find out more at our webinars on 18 & 21 July
+      subtitle: Join Hongyi & the team
   - infobar:
       title: Launching in Aug 2022
       subtitle: Raising adult vaccine rates
