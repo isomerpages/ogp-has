@@ -22,14 +22,13 @@ sections:
         - title: Minimal administration
           description: Set clinic schedule in 5 min
           url: /privacy/
+  - resources:
+      title: 18 July | 21 July
+      subtitle: Learn more at our webinars
   - infobar:
       title: Launching in Aug 2022
       subtitle: Raising adult vaccine rates
       description: "The goal: +20% pneumonia vaccination rates"
       button: Learn more
       url: /faq/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
