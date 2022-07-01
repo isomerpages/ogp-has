@@ -22,7 +22,6 @@ sections:
         - title: Minimal administration
           description: Set clinic schedule in 5 min
           url: /privacy/
-  - resources: {}
   - infobar:
       title: Launching in Aug 2022
       subtitle: Raising adult vaccine rates
@@ -35,4 +34,8 @@ sections:
       description: "Speakers: Li Hongyi and the OGP team"
       button: Register
       url: https://zoom.us?register-for-has-webinar
+  - resources:
+      subtitle: Things
+      title: Stuff
+      button: Go next
 ---
