@@ -22,13 +22,17 @@ sections:
         - title: Minimal administration
           description: Set clinic schedule in 5 min
           url: /privacy/
-  - resources:
-      title: Find out more at our webinars on 18 & 21 July
-      subtitle: Join Hongyi & the team
+  - resources: {}
   - infobar:
       title: Launching in Aug 2022
       subtitle: Raising adult vaccine rates
       description: "The goal: +20% pneumonia vaccination rates"
       button: Learn more
       url: /faq/
+  - infobar:
+      title: "Webinars: 18 & 21 July"
+      subtitle: Join us on zoom
+      description: "Speakers: Li Hongyi and the OGP team"
+      button: Register
+      url: https://zoom.us?register-for-has-webinar
 ---
