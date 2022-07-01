@@ -17,15 +17,15 @@ sections:
           description: Based on your available slots
           url: https://google.com
         - title: 600,000 elderly reached
-          description: Important highlight B is equally important
+          description: Surge in demand expected
           url: https://gmail.com
         - title: Minimal administration
           description: Set clinic schedule in 5 min
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: "50% adult "
+      subtitle: Launching in Aug 2022
+      description: Raising the bar on adult vaccinations
       button: Button text
       url: /faq/
   - resources:
