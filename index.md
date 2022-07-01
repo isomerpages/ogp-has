@@ -23,10 +23,10 @@ sections:
           description: Set clinic schedule in 5 min
           url: /privacy/
   - infobar:
-      title: "50% adult "
-      subtitle: Launching in Aug 2022
-      description: Raising the bar on adult vaccinations
-      button: Button text
+      title: Launching in Aug 2022
+      subtitle: Raising adult vaccine rates
+      description: "The goal: +20% pneumonia vaccination rates"
+      button: Learn more
       url: /faq/
   - resources:
       title: Media
