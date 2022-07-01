@@ -28,9 +28,6 @@ sections:
       description: "Speakers: Li Hongyi and the OGP team"
       button: Register
       url: https://zoom.us?register-for-has-webinar
-  - infobar:
-      button: Learn more
-      url: /faq/
   - infopic:
       title: "Launch: Aug 2022"
       subtitle: Raising adult vaccine rates
