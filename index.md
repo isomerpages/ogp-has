@@ -4,11 +4,11 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Register for the pneumococcal vaccine pilot today
+notification: Be part of the pneumococcal vaccine booking pilot today
 sections:
   - hero:
-      title: Facilitating access to adult vaccines
-      subtitle: Allowing the elderly to book vaccinations at a GP near them
+      title: Facilitate access to adult vaccines
+      subtitle: Allow nearby citizens to book vaccinations at your clinic
       background: /images/istockphoto-1189130621-612x612.jpg
       button: Contact Us
       url: http://go.gov.sg/has-interest-form
@@ -31,8 +31,9 @@ sections:
   - infopic:
       title: "Launch: Aug 2022"
       subtitle: Raising adult vaccine rates
-      description: Our mid-term goal is to increase adult pneumonococcal vaccinations
-        rates to +20%.
+      description: Pneumonococcal vaccination rates for adults >65 have remained low
+        at 12%. HAS aims to boost this by making it easy for vaccines to be
+        booked at nearby clinics.
       image: /images/istockphoto-1289898945-612x612.jpg
       alt: Image alt text
   - resources:
