@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Be part of the pneumococcal vaccine booking pilot today
+notification: ""
 sections:
   - hero:
       title: Protect yourself against pneumonia
@@ -22,6 +22,7 @@ sections:
         - title: Minimal administration
           description: Set clinic schedule in 5 min
           url: /privacy/
+      background: /images/hero-desktop.svg
   - infobar:
       title: "Webinars: 18 & 21 July"
       subtitle: Join us on zoom
