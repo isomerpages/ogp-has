@@ -7,11 +7,11 @@ permalink: /
 notification: Be part of the pneumococcal vaccine booking pilot today
 sections:
   - hero:
-      title: Facilitate access to adult vaccines
-      subtitle: Allow nearby citizens to book vaccinations at your clinic
-      background: /images/istockphoto-1189130621-612x612.jpg
-      button: Contact Us
-      url: http://go.gov.sg/has-interest-form
+      title: Protect yourself against pneumonia
+      subtitle: and other serious infections caused by pneumococcal bacteria. Book a
+        vaccine appointment today.
+      button: Start Booking
+      url: https://book.health.gov.sg/offerings/1/institutions
       key_highlights:
         - title: Automated booking system
           description: Based on your available slots
