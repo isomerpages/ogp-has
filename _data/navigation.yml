@@ -1,2 +1,4 @@
 logo: /images/logotype.svg
-links: []
+links:
+  - title: Vaccines
+    collection: vaccines
