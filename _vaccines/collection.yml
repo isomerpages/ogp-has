@@ -1,0 +1,4 @@
+collections:
+  vaccines:
+    output: true
+    order: []
