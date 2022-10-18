@@ -1,4 +1,5 @@
 collections:
   vaccines:
     output: true
-    order: []
+    order:
+      - Flu.md
