@@ -3,6 +3,12 @@ title: Pneumococcal
 permalink: /vaccines/pneumococcal/
 description: ""
 ---
+<style>
+	. {
+		 line-height: 1.1;
+	}
+	</style>
+
 <div style="background-image: url('/images/hero-desktop.svg')">
 <div style="max-width: 50%; margin-bottom:30px">
 <h1 style="margin-top:0px; color: black;  line-height: 1.1; font-weight: 700"> Protect yourself against pneumonia </h1>
@@ -61,17 +67,17 @@ description: ""
 	</tbody>
 	</table>
 		
-##### What do the vaccines do?
+#### What do the vaccines do?
 Pneumoccocal vaccines help prevent serious infection caused by the bacteria *Streptococcus Pneumoniae*
 
 **The pneumococcal vaccines are the best way to protect yourself against pneumococcal diseases (PD).** While primarily causing pneumonia (infection of the lungs), PD can also cause other serious infections like pneumococcal meningitis (infection of the lining of the brain and spinal cord), and pneumococcal bacteremia (infection of the blood) that can lead to sepsis (the body’s extreme response to an infection).
 
 There are two vaccines, which MOH recommends be taken 1 year apart. The staff at the clinic may also check your vaccination history, to make sure you are medically fit to take the pneumococcal vaccines, and haven’t already taken them.
 
-##### Who is eligible for subsidies when taking the pneumococcal vaccines?
+#### Who is eligible for subsidies when taking the pneumococcal vaccines?
 Adults who are **65 years old and above are eligible for subsidies** when taking pneumococcal vaccines.
 
-##### How much will it cost?
+#### How much will it cost?
 It can be different for each clinic, and for each vaccine, but there is a maximum limit to how much it can cost. CHAS subsidies further help lower the cost for eligible patients.
 
 **A dose of the vaccine will never cost more than:**
@@ -80,5 +86,5 @@ It can be different for each clinic, and for each vaccine, but there is a maximu
 
 You can use Medisave to pay for your vaccination.
 
-<p style="font-size: 0.75rem; margin-bottom: 0px"> Pioneer Generation: Born on 31 Dec 1949 or earlier, and became a citizen on 31 Dec 1986 or earlier </p>
+<p style="font-size: 0.75rem; margin-bottom: 0px; margin-top:0px"> Pioneer Generation: Born on 31 Dec 1949 or earlier, and became a citizen on 31 Dec 1986 or earlier </p>
 <p style="font-size: 0.75rem; margin-top: 0px"> Merdeka Generation: Born between 1 Jan 1950 - 31 Dec 1959, and became a citizen on 31 Dec 1986 or earlier</p>
