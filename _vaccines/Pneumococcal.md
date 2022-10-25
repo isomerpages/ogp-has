@@ -5,7 +5,7 @@ description: ""
 ---
 <div style="background-image: url('/images/hero-desktop.svg')">
 <div style="max-width: 50%; margin-bottom:30px; margin-left:60px">
-<h1 style="color: black;  line-height: 1.1; font-weight: 700"> Protect yourself against pneumonia </h1>
+<h1 style="color: black;  line-height: 1.1; font-weight: 700; padding-top:60px"> Protect yourself against pneumonia </h1>
 <h4 style="margin-top:0px; color: black;  line-height: 1.3; font-weight: 600"> and other serious infections caused by pneumococcal bacteria. Book a vaccine appointment today.</h4>
 </div>
 
