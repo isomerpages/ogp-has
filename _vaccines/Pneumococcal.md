@@ -39,7 +39,7 @@ description: ""
     white-space: nowrap;
 		text-decoration: none;">Start Booking</a>
 	</div>
-<div><p style="font-size: 0.75rem; margin-bottom: 0px; margin-left:60px">Estimated 2 minutes to complete</p></div>
+<div style="pading-bottom: 30px"><p style="font-size: 0.75rem; margin-bottom: 0px; margin-left:60px">Estimated 2 minutes to complete</p></div>
 </div>
 
 <table>
