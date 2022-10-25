@@ -4,12 +4,12 @@ permalink: /vaccines/pneumococcal/
 description: ""
 ---
 <div style="background-image: url('/images/hero-desktop.svg')">
-<div style="max-width: 50%; margin-bottom:30px; margin-left:30px; margin-top: 70px">
-<h1 style="margin-top:0px; color: black;  line-height: 1.1; font-weight: 700"> Protect yourself against pneumonia </h1>
+<div style="max-width: 50%; margin-bottom:30px; margin-left:60px">
+<h1 style="color: black;  line-height: 1.1; font-weight: 700"> Protect yourself against pneumonia </h1>
 <h4 style="margin-top:0px; color: black;  line-height: 1.3; font-weight: 600"> and other serious infections caused by pneumococcal bacteria. Book a vaccine appointment today.</h4>
 </div>
 
-<div style="text-align:left; margin-left:30px"><a href="https://book.health.gov.sg/offerings/1/institutions" target="\_blank" style="margin:0 auto;
+<div style="text-align:left; margin-left:60px"><a href="https://book.health.gov.sg/offerings/1/institutions" target="\_blank" style="margin:0 auto;
     border-radius: 6px!important;
     background-color: #276EF1!important;
     color: white;
@@ -39,7 +39,7 @@ description: ""
     white-space: nowrap;
 		text-decoration: none;">Start Booking</a>
 	</div>
-<div><p style="font-size: 0.75rem; margin-bottom: 0px; margin-left:30px">Estimated 2 minutes to complete</p></div>
+<div><p style="font-size: 0.75rem; margin-bottom: 0px; margin-left:60px">Estimated 2 minutes to complete</p></div>
 </div>
 
 <table>
