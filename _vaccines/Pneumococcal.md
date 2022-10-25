@@ -3,12 +3,11 @@ title: Pneumococcal
 permalink: /vaccines/pneumococcal/
 description: ""
 ---
-<div style="max-width: 50%">
+<div style="max-width: 50%; margin-bottom:30px">
 <h1 style="margin-top:0px; color: black;  line-height: 1.1"> Protect yourself against pneumonia </h1>
 <h4 style="margin-top:0px; color: black;  line-height: 1.3"> and other serious infections caused by pneumococcal bacteria. Book a vaccine appointment today.</h4>
 </div>
 
-####
 <div style="text-align:left;"><a href="https://book.health.gov.sg/offerings/1/institutions" target="\_blank" style="margin:0 auto;
     border-radius: 6px!important;
     background-color: #276EF1!important;
