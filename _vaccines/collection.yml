@@ -2,4 +2,5 @@ collections:
   vaccines:
     output: true
     order:
+      - Flu.md
       - Pneumococcal.md
