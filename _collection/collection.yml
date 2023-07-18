@@ -2,8 +2,8 @@ collections:
   collection:
     output: true
     order:
-      - Sub page/sub sub page.md
-      - Sub page/.keep
-      - page/sub page 2.md
       - page/.keep
+      - page/sub page 2.md
       - page/sub-page.md
+      - Sub page/.keep
+      - Sub page/sub sub page.md
