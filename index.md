@@ -35,6 +35,7 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
+      url: asdf
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
