@@ -43,7 +43,7 @@ sections:
       button: Button Text
       alt: Image alt text
   - resources:
-      title: Resources Section
-      subtitle: Resources Section Subtitle
-      button: Resources Button Nam
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
