@@ -43,7 +43,6 @@ sections:
       button: Button Text
       alt: Image alt text
   - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      title: More information on Covid Vaccines
       id: resources
 ---
